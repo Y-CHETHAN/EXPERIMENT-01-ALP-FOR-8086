@@ -1,7 +1,5 @@
 # EXPERIMENT 01 - ALP FOR 8086
-### Name: Y Chethan
-### Reg No: 212220230008
-### Date of Experiment: 10/09/2022
+
 ## Aim:
 To write and execute ALP on fundamental arithmetic operations.
 
