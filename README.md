@@ -83,6 +83,9 @@ MOV [SI+2],AL
 MOV [SI+3],AH
 HLT
 ```
+
+<br><br><br><br><br><br><br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234991/190918404-4ba666d8-cd74-4dc3-9de3-0b52fc0f9e7a.png)
 
@@ -96,6 +99,9 @@ MOV [SI+2],AL
 MOV [SI+3],AH
 HLT
 ```
+
+<br><br><br><br><br><br><br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234991/190918456-cd5d36aa-93e7-4587-b115-7cc66d385b02.png)
 
