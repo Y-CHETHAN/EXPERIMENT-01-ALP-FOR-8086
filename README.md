@@ -84,7 +84,7 @@ MOV [SI+3],AH
 HLT
 ```
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234991/190918404-4ba666d8-cd74-4dc3-9de3-0b52fc0f9e7a.png)
