@@ -47,6 +47,9 @@ L1:MOV [SI+2],AL
 MOV [SI+3],CL
 HLT
 ```
+
+<br><br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234991/190918052-e400bf3d-5ca3-49a4-a7d8-b80f84582da6.png)
 
